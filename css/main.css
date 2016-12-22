@@ -47,7 +47,7 @@ nav ul li a{
 	text-decoration:none;
 	font-size: 18px;
 	color:#828282;
-	padding-left: 80px;
+	padding-left: 40px;
 }
 header h2{
 	width: 1000px;
@@ -88,7 +88,7 @@ header h2 span{
 	justify-content: center;
 }
 #work .full-width{
-	padding: 115px 0;
+	padding: 110px 0;
 }
 #work .img{
 	padding-bottom:30px;
@@ -138,3 +138,26 @@ header h2 span{
 #contact ul img{
 	padding-right: 48px;
 }
+/****website page ****/
+#website {
+	background:#FDEADA;
+	text-align: left;
+	justify-content: center;
+}
+#website .full-width{
+	padding: 50px 0;
+}
+#website h2{
+	text-align: center;
+	font-weight: bold;
+	font-size: 28px;
+	font-family:'Lora', serif;
+	color: #9b9b9b;
+}
+#website h3 a {
+	text-decoration: none;
+	font-family:'Lora', serif;
+	font-size:18px;
+	color:#93AE97;
+}
+
